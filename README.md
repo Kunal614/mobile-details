@@ -1,4 +1,4 @@
-# mobile-details
+# mobile-details  A web App which store the details of the mobile products by taking user input and this app also use to compare between two products , and shows the data store in list form.
 
 
 # git clone https://github.com/Kunal614/mobile-details.git
