@@ -9,7 +9,7 @@
        "express": "^4.17.1",
        "firebase": "^7.14.0"
    * install nodemon  (npm install -g nodemon)
-   * npm sudo apt install nodejs (version >10 || >13)
+   * npm sudo apt install nodejs (version ^8.13.0 || >=10.10.0)
    * firebase (npm install firebase)
    * express (npm install express)
    * body-parser (npm install body-parser)
