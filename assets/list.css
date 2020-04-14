@@ -1,0 +1,58 @@
+#compare {
+    position: fixed;
+    top: 80%;
+    font-family: serif;
+    font-weight: bolder;
+    left: 70%;
+}
+
+input[type="text"] {
+    width: 40%;
+    padding: 20px;
+    background: #181c22;
+    border: 0;
+    font-size: 20px;
+    color: #989898;
+}
+
+.btn {
+    padding: 20px;
+    width: 30%;
+    border: 0;
+    height: 50px;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+#head {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: serif;
+    font-style: italic;
+    color: aqua;
+}
+
+#butn1 {
+    top: 0px;
+    padding: 20px;
+    position: fixed;
+    left: 0%;
+    width: 500px;
+}
+
+h2 {
+    color: aqua;
+    font-size: 15px;
+    font-style: italic;
+}
+
+h2:hover {
+    text-decoration: line-through;
+}
+
+li {
+    color: red;
+}

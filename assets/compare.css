@@ -1,0 +1,89 @@
+.All_btn {
+    height: 400px;
+    width: 400ps;
+    padding: 20px;
+}
+
+.split {
+    height: 500px;
+    width: 30%;
+    position: fixed;
+    z-index: 1;
+    top: 45%;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+
+/* Control the left side */
+
+.left {
+    left: 0;
+    background-color: #111;
+}
+
+
+/* Control the right side */
+
+.right {
+    right: 0;
+    background-color: #111;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: serif;
+    font-weight: bolder;
+    text-transform: capitalize;
+    padding: 15px;
+    top: 5px;
+}
+
+#img1 {
+    position: absolute;
+    top: 60px;
+    width: 200px;
+}
+
+#img2 {
+    position: absolute;
+    top: 50px;
+    width: 300px;
+    left: 65%;
+}
+
+#butn1 {
+    top: 180px;
+    padding: 20px;
+    position: absolute;
+    left: 43%;
+}
+
+#butn {
+    top: 100px;
+    padding: 20px;
+    position: absolute;
+    left: 43%;
+}
+
+p {
+    font-size: 25px;
+    color: white;
+    font-family: serif;
+    font-weight: bolder;
+}
+
+li {
+    font-size: 20px;
+    color: white;
+    font-family: serif;
+    font-weight: bolder;
+}
+
+#head {
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: serif;
+    font-weight: bolder;
+}

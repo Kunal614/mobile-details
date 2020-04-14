@@ -1,0 +1,68 @@
+#Mobile {
+    text-align: center;
+    font-size: 50px;
+    font-family: serif;
+    color: #fff;
+    top: 2em;
+}
+
+#fill {
+    text-align: center;
+    background-color: #111;
+    padding: 20px;
+    margin: auto;
+    display: none;
+}
+
+#touch {
+    text-align: center;
+    font-family: serif;
+    font-size: 50px;
+    cursor: pointer;
+    color: #23282e;
+    font-weight: bolder;
+}
+
+input[type="text"] {
+    width: 30%;
+    padding: 20px;
+    background: #181c22;
+    border: 0;
+    font-size: 20px;
+    color: #989898;
+}
+
+input[type="number"] {
+    width: 30%;
+    padding: 20px;
+    background: #181c22;
+    border: 0;
+    font-size: 20px;
+    color: #989898;
+}
+
+.btn {
+    padding: 20px;
+    width: 15%;
+    border: 0;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.arrow {
+    position: absolute;
+}
+
+#player {
+    position: absolute;
+}
+
+#butn {
+    top: 0px;
+    padding: 20px;
+    position: relative;
+    left: 80%;
+    margin-right: auto;
+}
