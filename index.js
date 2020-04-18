@@ -95,8 +95,13 @@ app.post('/list', parser, function(req, res) {
             comp.push(store2[i]);
         }
     }
+    console.log(p1);
+    console.log(store2[p1]);
     console.log(comp);
-    res.render('compare', { p: req.body, store: comp })
+    //res.send(comp);
+    p1 = 0;
+    p2 = 1;
+    res.render('compare', { p1: p1, p2: p2, store: comp })
 })
 
 
